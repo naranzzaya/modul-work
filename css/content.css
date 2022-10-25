@@ -1,0 +1,47 @@
+article h1,article  h2, article h3, article h4, article h5 { font-family: 'HK Grotesk', sans-serif;
+}
+h1 {
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 115px;
+  color: #FFFFFF;
+  margin-left: 83px;
+  margin-top: 76px;
+  }
+h1 + p {
+  font-family: 'HK Grotesk';
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+  margin-left: 88px;
+  }
+h2 {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  color: #000000;
+  margin-left: 67px;
+  margin-top: 60px;
+  }
+h2 + p {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 26px;
+  color: #000000;
+  width: 795px;
+  height: 224px;
+  margin-left: 67px;
+  margin-top: 100px;
+  }
+
+
+
+.sq_third p {
+
+}
