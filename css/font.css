@@ -1,11 +1,7 @@
 @font-face {
     font-family: 'HK Grotesk Legacy';
-    src: url('HKGrotesk-LegacyItalic.eot');
-    src: local('HK Grotesk Legacy Italic'), local('HKGrotesk-LegacyItalic'),
-        url('HKGrotesk-LegacyItalic.eot?#iefix') format('embedded-opentype'),
-        url('HKGrotesk-LegacyItalic.woff2') format('woff2'),
-        url('HKGrotesk-LegacyItalic.woff') format('woff'),
-        url('HKGrotesk-LegacyItalic.ttf') format('truetype');
+    src: url('HKGrotesk-LegacyItalic.woff2') format('woff2'),
+    src: url('HKGrotesk-LegacyItalic.woff') format('woff'),
     font-weight: normal;
     font-style: italic;
 }

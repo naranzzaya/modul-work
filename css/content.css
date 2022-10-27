@@ -1,7 +1,7 @@
 article h1,article  h2, article h3, article h4, article h5 { font-family: 'HK Grotesk', sans-serif;
 }
 h1 {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 96px;
   line-height: 115px;
@@ -10,7 +10,7 @@ h1 {
   margin-top: 76px;
   }
 h1 + p {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 400;
   font-size: 24px;
   line-height: 29px;
@@ -18,7 +18,7 @@ h1 + p {
   margin-left: 88px;
   }
 h2 {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 48px;
   line-height: 58px;
@@ -27,7 +27,7 @@ h2 {
   margin-top: 76px;
   }
 h2 + p {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: normal;
   font-weight: 700;
   font-size: 22px;
@@ -39,7 +39,7 @@ h2 + p {
   margin-top: 31px;
   }
 h3 {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -47,7 +47,7 @@ h3 {
   color: #FFFFFF;
 }
 .sale {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 400;
   font-size: 30px;
   line-height: 26px;
@@ -58,7 +58,7 @@ h3 {
   width: 123px;
 }
 .sq_first p {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 22px;
   line-height: 26px;
@@ -69,7 +69,7 @@ h3 {
   z-index: 5;
 }
 .sq_second p{
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 14px;
   line-height: 17px;
@@ -80,7 +80,7 @@ h3 {
   margin-top: 95px;
 }
 .sq_third p {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 16px;
   line-height: 19px;
@@ -90,7 +90,7 @@ h3 {
   margin-top: 151px;
 }
 .holodno {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 11px;
   line-height: 13px;
@@ -100,7 +100,7 @@ h3 {
   margin-top: 70px;
 }
 .size {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 12px;
   line-height: 14px;
@@ -111,7 +111,7 @@ h3 {
 }
 .des_one{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 16px;
   line-height: 19px;
@@ -123,7 +123,7 @@ h3 {
 }
 .price_one{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 500;
   font-size: 24px;
   line-height: 29px;
@@ -134,7 +134,7 @@ h3 {
 }
 .des_two{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 16px;
   line-height: 19px;
@@ -146,7 +146,7 @@ h3 {
 }
 .price_two{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 500;
   font-size: 24px;
   line-height: 29px;
@@ -157,7 +157,7 @@ h3 {
 }
 .des_three{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 16px;
   line-height: 19px;
@@ -169,7 +169,7 @@ h3 {
 }
 .price_three{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 500;
   font-size: 24px;
   line-height: 29px;
@@ -180,7 +180,7 @@ h3 {
 }
 .des_four{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 16px;
   line-height: 19px;
@@ -192,7 +192,7 @@ h3 {
 }
 .price_four{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 500;
   font-size: 24px;
   line-height: 29px;
@@ -202,7 +202,7 @@ h3 {
   margin-top: 175px;
 }
 .description{
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: normal;
   font-weight: 700;
   font-size: 24px;
@@ -213,38 +213,39 @@ h3 {
   margin-top: 253px;
   width: 580px;
 }
-.decor_one{
+/* .decor_one{
   font-family: 'HK Grotesk';
   font-weight: 400;
   font-size: 48px;
   line-height: 58px;
   text-align: center;
   color: #21C4CE;
-}
-.decor_two{
+} */
+/* .decor_two{
   font-family: 'HK Grotesk';
   font-weight: 400;
   font-size: 48px;
   line-height: 58px;
   color: #21C4CE;
   margin-top: 762px;
-}
-.decor_three{
+} */
+/* .decor_three{
   font-family: 'HK Grotesk';
   font-weight: 400;
   font-size: 48px;
   line-height: 58px;
   color: #21C4CE;
-}
-.decor_four{
+} */
+/* .decor_four{
   font-family: 'HK Grotesk';
   font-weight: 400;
   font-size: 48px;
   line-height: 58px;
   color: #21C4CE;
   margin-top: 548px;
-}
+} */
 .shirt_big h2{
+  font-family: 'HK Grotesk Legacy'
   text-transform: uppercase;
   transform: rotate(19.48deg);
   margin-left: 140px;
@@ -254,7 +255,7 @@ h3 {
   position: absolute;
   left: 324px;
   top: -178px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 12px;
   line-height: 14px;
@@ -264,7 +265,7 @@ h3 {
 }
 .announce h3 + p{
   width: 490px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -274,7 +275,7 @@ h3 {
   position: absolute;
   left: 472px;
   top: 220px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 400;
   font-size: 11px;
   line-height: 13px;
@@ -283,7 +284,7 @@ h3 {
   transform: rotate(12.77deg);
 }
 .membership {
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -296,7 +297,7 @@ h3 {
   position: absolute;
   left: 68px;
   top: 120px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -307,7 +308,7 @@ h3 {
   position: absolute;
   left: 139px;
   top: 110px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -318,7 +319,7 @@ h3 {
   position: absolute;
   left: 212px;
   top: 101px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
@@ -330,7 +331,7 @@ h3 {
   position: absolute;
   left: 282px;
   top: 92px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
@@ -343,7 +344,7 @@ h3 {
   width: 115px;
   left: 52px;
   top: 12px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 500;
   font-size: 14px;
   line-height: 17px;
@@ -354,7 +355,7 @@ h3 {
   position: absolute;
   top: 115px;
   left: 89px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -366,7 +367,7 @@ h3 {
   position: absolute;
   top: 269px;
   left: 54px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -379,7 +380,7 @@ h3 {
   position: absolute;
   left: 49px;
   top: 50px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 22px;
   line-height: 26px;
@@ -392,7 +393,7 @@ h3 {
   position: absolute;
   left: 116px;
   top: 96px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 34px;
   line-height: 41px;
@@ -404,7 +405,7 @@ h3 {
   position: absolute;
   top: 137px;
   left:99px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -416,7 +417,7 @@ h3 {
   position: absolute;
   top: 214px;
   left: 80px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 15px;
   text-transform: uppercase;
@@ -425,7 +426,7 @@ h3 {
 }
 .one {
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 32px;
   line-height: 38px;
@@ -435,7 +436,7 @@ h3 {
 }
 .two {
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 400;
   font-size: 32px;
   line-height: 38px;
@@ -445,7 +446,7 @@ h3 {
 }
 .three {
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 500;
   font-size: 32px;
   line-height: 38px;
@@ -455,7 +456,7 @@ h3 {
 }
 .four {
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 600;
   font-size: 32px;
   line-height: 38px;
@@ -465,7 +466,7 @@ h3 {
 }
 .five {
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 32px;
   line-height: 38px;
@@ -475,7 +476,7 @@ h3 {
 }
 .color_one{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: italic;
   font-weight: 300;
   font-size: 32px;
@@ -486,7 +487,7 @@ h3 {
 }
 .color_two{
   position:absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: italic;
   font-weight: 400;
   font-size: 32px;
@@ -497,7 +498,7 @@ h3 {
 }
 .color_three{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: italic;
   font-weight: 500;
   font-size: 32px;
@@ -508,7 +509,7 @@ h3 {
 }
 .color_four{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: italic;
   font-weight: 600;
   font-size: 32px;
@@ -519,7 +520,7 @@ h3 {
 }
 .color_five{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-style: italic;
   font-weight: 700;
   font-size: 32px;
@@ -530,7 +531,7 @@ h3 {
 }
 .hat_purple p{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 48px;
   color: #FFFFFF;
@@ -540,7 +541,7 @@ h3 {
 }
 .cold{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -551,7 +552,7 @@ h3 {
 }
 .size_s {
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   line-height: 24px;
@@ -562,7 +563,7 @@ h3 {
 }
 .space_one p{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 48px;
   line-height: 58px;
@@ -573,7 +574,7 @@ h3 {
 }
 .space_two p{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 48px;
   line-height: 58px;
@@ -584,7 +585,7 @@ h3 {
 }
 .type{
   position: absolute;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 90px;
   line-height: 108px;
@@ -597,7 +598,7 @@ h3 {
   position: absolute;
   margin-top: -483px;
   margin-left: 48px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 90px;
   color: #FA5456;
@@ -606,7 +607,7 @@ h3 {
   position: absolute;
   margin-top: -450px;
   margin-left: 410px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 90px;
   color: #FA5456;
@@ -615,7 +616,7 @@ h3 {
   position: absolute;
   margin-top: -130px;
   margin-left: 45px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 90px;
   color: #FA5456;
@@ -624,7 +625,7 @@ h3 {
   position: absolute;
   margin-top: -88px;
   margin-left: 393px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 90px;
   color: #FA5456;
@@ -635,7 +636,7 @@ h3 {
   height: 58px;
   left: 23px;
   top: 29px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 24px;
   line-height: 29px;
@@ -646,7 +647,7 @@ h3 {
   width: 81px;
   margin-left:115px;
   margin-top: -455px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 16px;
   color: #000000;
@@ -656,7 +657,7 @@ h3 {
   width: 95px;
   margin-left:467px;
   margin-top: -424px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 16px;
   color: #000000;
@@ -666,7 +667,7 @@ h3 {
   width: 103px;
   margin-left:102px;
   margin-top: -90px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 16px;
   color: #000000;
@@ -676,7 +677,7 @@ h3 {
   width: 101px;
   margin-left:449px;
   margin-top: -56px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 16px;
   color: #000000;
@@ -685,7 +686,7 @@ h3 {
   position: absolute;
   margin-left: 153px;
   margin-top: -122px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 20px;
   text-transform: uppercase;
@@ -696,7 +697,7 @@ h3 {
   position: absolute;
   margin-left: 242px;
   margin-top: -197px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 14px;
   text-transform: uppercase;
@@ -706,7 +707,7 @@ h3 {
   position: absolute;
   margin-left: 360px;
   margin-top: -197px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 14px;
   text-transform: uppercase;
@@ -716,7 +717,7 @@ h3 {
   position: absolute;
   margin-left: 242px;
   margin-top: -150px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 14px;
   text-transform: uppercase;
@@ -726,7 +727,7 @@ h3 {
   position: absolute;
   margin-left: 242px;
   margin-top: -103px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 14px;
   text-transform: uppercase;
@@ -736,7 +737,7 @@ h3 {
   position: absolute;
   margin-left: 328px;
   margin-top: -103px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 300;
   font-size: 14px;
   text-transform: uppercase;
@@ -746,7 +747,7 @@ h3 {
   position: absolute;
   margin-left: 242px;
   margin-top: -182px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
@@ -756,7 +757,7 @@ h3 {
   position: absolute;
   margin-left: 360px;
   margin-top: -182px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
@@ -766,7 +767,7 @@ h3 {
   position: absolute;
   margin-left: 242px;
   margin-top: -136px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
@@ -776,7 +777,7 @@ h3 {
   position: absolute;
   margin-left: 264px;
   margin-top: -88px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
@@ -786,7 +787,7 @@ h3 {
   position: absolute;
   margin-left: 340px;
   margin-top: -88px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 700;
   font-size: 20px;
   text-transform: uppercase;
@@ -797,7 +798,7 @@ h3 {
   margin-left: 86px;
   margin-top: -148px;
   width: 123px;
-  font-family: 'HK Grotesk';
+  font-family: 'HK Grotesk Legacy';
   font-weight: 400;
   font-size: 22px;
   text-align: center;
