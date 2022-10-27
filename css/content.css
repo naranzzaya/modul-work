@@ -29,17 +29,24 @@ h2 {
 h2 + p {
   font-family: 'HK Grotesk';
   font-style: normal;
-  font-weight: 400;
+  font-weight: 700;
   font-size: 22px;
   line-height: 26px;
   color: #000000;
   width: 795px;
   height: 224px;
   margin-left: 67px;
-  margin-top: 21px;
+  margin-top: 31px;
   }
+h3 {
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+  color: #FFFFFF;
+}
 .sale {
-  position: absolute;
   font-family: 'HK Grotesk';
   font-weight: 400;
   font-size: 30px;
@@ -47,7 +54,7 @@ h2 + p {
   color: #FFFFFF;
   transform: rotate(12.77deg);
   margin-left: 996px;
-  margin-top: -161px;
+  margin-top: -170px;
   width: 123px;
 }
 .sq_first p {
@@ -205,4 +212,596 @@ h2 + p {
   margin-left: 67px;
   margin-top: 253px;
   width: 580px;
+}
+.decor_one{
+  font-family: 'HK Grotesk';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  text-align: center;
+  color: #21C4CE;
+}
+.decor_two{
+  font-family: 'HK Grotesk';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  color: #21C4CE;
+  margin-top: 762px;
+}
+.decor_three{
+  font-family: 'HK Grotesk';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  color: #21C4CE;
+}
+.decor_four{
+  font-family: 'HK Grotesk';
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 58px;
+  color: #21C4CE;
+  margin-top: 548px;
+}
+.shirt_big h2{
+  text-transform: uppercase;
+  transform: rotate(19.48deg);
+  margin-left: 140px;
+  margin-top: -350px;
+}
+.shirt_big p{
+  position: absolute;
+  left: 324px;
+  top: -178px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 14px;
+  text-transform: lowercase;
+  color: #000000;
+  transform: rotate(-69.38deg);
+}
+.announce h3 + p{
+  width: 490px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+.star_off{
+  position: absolute;
+  left: 472px;
+  top: 220px;
+  font-family: 'HK Grotesk';
+  font-weight: 400;
+  font-size: 11px;
+  line-height: 13px;
+  text-align: center;
+  color: #000000;
+  transform: rotate(12.77deg);
+}
+.membership {
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #FFFFFF;
+  transform: rotate(-7.4deg);
+  margin-left: 39px;
+  margin-top: -214px;
+}
+.ten {
+  position: absolute;
+  left: 68px;
+  top: 120px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  transform: rotate(-7.4deg);
+}
+.thirty{
+  position: absolute;
+  left: 139px;
+  top: 110px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  transform: rotate(-7.4deg);
+}
+.seventy{
+  position: absolute;
+  left: 212px;
+  top: 101px;
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  transform: rotate(-7.4deg);
+}
+.twenty{
+  position: absolute;
+  left: 282px;
+  top: 92px;
+  font-family: 'HK Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  transform: rotate(-7.4deg);
+}
+.yarlik p{
+  position: absolute;
+  width: 115px;
+  left: 52px;
+  top: 12px;
+  font-family: 'HK Grotesk';
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.zero_one{
+  position: absolute;
+  top: 115px;
+  left: 89px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-align: center;
+  color: #000000;
+  transform: rotate(11.55deg);
+}
+.zero_two{
+  position: absolute;
+  top: 269px;
+  left: 54px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 0.05em;
+  text-transform: lowercase;
+  color: #000000;
+  transform: rotate(11.55deg);
+}
+.y_one{
+  position: absolute;
+  left: 49px;
+  top: 50px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 26px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(-5.65deg);
+}
+.y_two{
+  position: absolute;
+  left: 116px;
+  top: 96px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 41px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(-5.65deg);
+}
+.y_three{
+  position: absolute;
+  top: 137px;
+  left:99px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(-5.65deg);
+}
+.y_four{
+  position: absolute;
+  top: 214px;
+  left: 80px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #000000;
+  transform: rotate(-5.65deg);
+}
+.one {
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 55px;
+  margin-top: -286px;
+}
+.two {
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 55px;
+  margin-top: -250px;
+}
+.three {
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 55px;
+  margin-top: -214px;
+}
+.four {
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 55px;
+  margin-top: -178px;
+}
+.five {
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 55px;
+  margin-top: -142px;
+}
+.color_one{
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-style: italic;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 228px;
+  margin-top: -286px;
+}
+.color_two{
+  position:absolute;
+  font-family: 'HK Grotesk';
+  font-style: italic;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 228px;
+  margin-top: -250px;
+}
+.color_three{
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-style: italic;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 228px;
+  margin-top: -214px;
+}
+.color_four{
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-style: italic;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 228px;
+  margin-top: -178px;
+}
+.color_five{
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-style: italic;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 38px;
+  color: #FFFFFF;
+  margin-left: 228px;
+  margin-top: -142px;
+}
+.hat_purple p{
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 48px;
+  color: #FFFFFF;
+  transform: rotate(-13.8deg);
+  margin-top: -106px;
+  margin-left: 113px;
+}
+.cold{
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000000;
+  transform: rotate(14.67deg);
+  margin-top:-302px;
+  margin-left: 214px;
+}
+.size_s {
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 24px;
+  color: #FFFFFF;
+  transform: rotate(-21.6deg);
+  margin-left: 145px;
+  margin-top:-125px;
+}
+.space_one p{
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  text-align: center;
+  color: #FFFFFF;
+  width: 1280px;
+  margin-top: 20px;
+}
+.space_two p{
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  text-align: center;
+  color: #FFFFFF;
+  width: 1280px;
+  margin-top: 20px;
+}
+.type{
+  position: absolute;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 90px;
+  line-height: 108px;
+  color: #FFFFFF;
+  width: 611px;
+  margin-left: 30px;
+  margin-top: -310px;
+}
+.eight_last{
+  position: absolute;
+  margin-top: -483px;
+  margin-left: 48px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 90px;
+  color: #FA5456;
+}
+.k{
+  position: absolute;
+  margin-top: -450px;
+  margin-left: 410px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 90px;
+  color: #FA5456;
+}
+.g{
+  position: absolute;
+  margin-top: -130px;
+  margin-left: 45px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 90px;
+  color: #FA5456;
+}
+.three_last{
+  position: absolute;
+  margin-top: -88px;
+  margin-left: 393px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 90px;
+  color: #FA5456;
+}
+.name {
+  position: absolute;
+  width: 300px;
+  height: 58px;
+  left: 23px;
+  top: 29px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+.last_one{
+  position: absolute;
+  width: 81px;
+  margin-left:115px;
+  margin-top: -455px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.last_two{
+  position: absolute;
+  width: 95px;
+  margin-left:467px;
+  margin-top: -424px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.last_three{
+  position: absolute;
+  width: 103px;
+  margin-left:102px;
+  margin-top: -90px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.last_four{
+  position: absolute;
+  width: 101px;
+  margin-left:449px;
+  margin-top: -56px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.light_one{
+  position: absolute;
+  margin-left: 153px;
+  margin-top: -122px;
+  font-family: 'HK Grotesk';
+  font-weight: 300;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #858585;
+  transform: rotate(-90deg);
+}
+.light_two{
+  position: absolute;
+  margin-left: 242px;
+  margin-top: -197px;
+  font-family: 'HK Grotesk';
+  font-weight: 300;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #858585;
+}
+.light_three{
+  position: absolute;
+  margin-left: 360px;
+  margin-top: -197px;
+  font-family: 'HK Grotesk';
+  font-weight: 300;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #858585;
+}
+.light_four{
+  position: absolute;
+  margin-left: 242px;
+  margin-top: -150px;
+  font-family: 'HK Grotesk';
+  font-weight: 300;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #858585;
+}
+.light_five{
+  position: absolute;
+  margin-left: 242px;
+  margin-top: -103px;
+  font-family: 'HK Grotesk';
+  font-weight: 300;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #858585;
+}
+.light_six{
+  position: absolute;
+  margin-left: 328px;
+  margin-top: -103px;
+  font-family: 'HK Grotesk';
+  font-weight: 300;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #858585;
+}
+.black_one{
+  position: absolute;
+  margin-left: 242px;
+  margin-top: -182px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.black_two{
+  position: absolute;
+  margin-left: 360px;
+  margin-top: -182px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.black_three{
+  position: absolute;
+  margin-left: 242px;
+  margin-top: -136px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.black_four{
+  position: absolute;
+  margin-left: 264px;
+  margin-top: -88px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.black_five{
+  position: absolute;
+  margin-left: 340px;
+  margin-top: -88px;
+  font-family: 'HK Grotesk';
+  font-weight: 700;
+  font-size: 20px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.star_second p{
+  position: absolute;
+  margin-left: 86px;
+  margin-top: -148px;
+  width: 123px;
+  font-family: 'HK Grotesk';
+  font-weight: 400;
+  font-size: 22px;
+  text-align: center;
+  color: #FFFFFF;
+  transform: rotate(12.77deg);
+  z-index: 90;
 }

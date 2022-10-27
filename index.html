@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <title>HK Grotesk</title>
     <link rel="stylesheet" href="css/style.css">
-    <!-- <link href="https://fonts.cdnfonts.com/css/hk-groteks" rel="stylesheet"> -->
     <style media="screen">
       @font-face {
       font-family: "HK Grotesk";
@@ -149,6 +148,11 @@
         top: 0px;
         background: #FFFFFF;
         }
+        .dear{
+          position: absolute;
+          top: 34px;
+          left: 32px;
+        }
         .shirt_big{
           position: absolute;
           left: -5px;
@@ -158,6 +162,11 @@
           position: absolute;
           left: 653px;
           top: 98px;
+        }
+        .announce_body{
+          position: absolute;
+          left: 32px;
+          top: 89px;
         }
         .member{
           position: absolute;
@@ -179,41 +188,86 @@
           left: 938px;
           top: 363px;
         }
-      .third_block{
-        position:relative;
+      .space_one{
+        position: relative;
         width: 1280px;
-        height: 784.5px;
+        height: 94.65px;
         left: 0px;
         top: 0px;
-        background: #FFFFFF;
-        }
-        .yellow_block{
-          position: absolute;
-          top: 0px;
-          left: 0px;
-        }
-        .horizontal_first{
-          position: absolute;
-          top: -5px;
-          left: 0px;
+        background: #21C4CE;
+      }
+      .third_block{
+        position: relative;
+        width: 1280px;
+        height: 664px;
+        left: 0px;
+        top: 0px;
+        background: #FDD219;
         }
         .package{
           position: absolute;
-          top: 160px;
-          left: 100px;
+          top: 104px;
+          left: 66px;
           z-index: 5;
         }
+        .hat_purple{
+          position: absolute;
+          top: 45px;
+          left: 649px;
+        }
+        .socks_red{
+          position: absolute;
+          top: 191px;
+          left: 908px;
+        }
+      .space_two{
+        position: relative;
+        width: 1280px;
+        height: 97px;
+        left: 0px;
+        top: 0px;
+        background: #21C4CE;
+      }
       .last_block{
         position: relative;
         width: 1280px;
-        height: 931px;
+        height: 749px;
         left: 0px;
         top: 0px;
         background: #28BD40;
+        }
+        .star_second{
+        position: absolute;
+        top: 35px;
+        left: 672px;
+        }
+        .box{
+        position: absolute;
+        top: 267px;
+        right: 0px;
+        }
+        .yrliki{
+          position: absolute;
+          top:185px;
+          left: 66px;
+        }
+      .ending{
+        position: relative;
+        width: 1280px;
+        height: 116px;
+        left: 0px;
+        top: 0px;
+        background: #21C4CE;
+      }
+      .logo{
+        position: absolute;
+        left: 1061px;
+        top: 20px;
       }
     </style>
   </head>
   <body>
+    <!-- обложка -->
     <div class="cover">
       <div class="horizontal">
         <h1>HK GROTESK</h1>
@@ -223,9 +277,10 @@
         <img src="images/leg.svg" alt="">
       </div>
     </div>
+    <!-- первая страница -->
     <div class="first_block">
         <h2>О Шрифте</h2>
-        <p>HK Grotesk — это шрифт без засечек, вдохновленный классическими гротескными шрифтами. Целью разработки HK Grotesk является создание более удобного и различимого шрифта, подходящего для мелкого текста. HK Grotesk можно использовать в личных и коммерческих проектах. </p>
+        <p>HK Grotesk — это шрифт без засечек, вдохновленный классическими гротескными шрифтами. Целью разработки HK Grotesk является создание более удобного и различимого шрифта, подходящего <br> для мелкого текста. HK Grotesk можно использовать в личных <br> и коммерческих проектах. </p>
         <div class="star_first"><img src="images/star_first.svg" alt=""></div>
         <p class="sale">50% off</p>
         <div class="sq_first">
@@ -261,25 +316,119 @@
         <p class="description">популярные товары   I  58 подерживаемых языков</p>
       </div>
     </div>
+    <!-- вторая страница -->
     <div class="second_block">
-      <div class="shirt_big"><img src="images/shirt_big.svg" alt=""></div>
-      <div class="announce"><img src="images/announce.svg" alt=""></div>
-      <div class="member"><img src="images/member.svg" alt=""></div>
-      <div class="yarlik"><img src="images/yarlik.svg" alt=""></div>
-      <div class="yarlik_first"><img src="images/yarlik_first.svg" alt=""></div>
-      <div class="yarlik_second"><img src="images/yarlik_second.svg" alt=""></div>
-    </div>
-    <div class="third_block">
-      <div class="yellow_block"><img src="images/yellow_block.svg" alt=""></div>
-      <div class="horizontal_first"><img src="images/horizontal_first.svg" alt=""></div>
-      <div class="package"><img src="images/package.svg" alt=""></div>
-
-
+      <p class="decor_one">--------------------------------------------------------------</p>
+      <p class="decor_two">--------------------------------------------------------------</p>
+      <div class="shirt_big">
+        <img src="images/shirt_big.svg" alt="">
+        <h2>Привет!</h2>
+        <p> с любовью</p>
       </div>
-
-
-    <div class="last_block"></div>
-
+      <div class="announce">
+        <img src="images/announce.svg" alt="">
+        <h3 class="dear">Уважаемые покупатели!</h3>
+        <p class="announce_body">Геометрия, метрики, знаки препинания и функции OpenType были обновлены для поддержки широкого спектра проектов, таких как текст для книг и журналов, интерфейс, веб-сайты <br> и  мобильные приложения.</p>
+        <p class="star_off">new arrivals<br>50% off</p>
+      </div>
+      <div class="member">
+        <img src="images/member.svg" alt="">
+        <p class="membership">Карта постоянного клиента</p>
+        <p class="ten">10%</p>
+        <p class="thirty">36%</p>
+        <p class="seventy">79%</p>
+        <p class="twenty">25%</p>
+      </div>
+      <div class="yarlik">
+        <img src="images/yarlik.svg" alt="">
+        <p>cut #₮:._,=%?<br>style #djrgd <br>52% cotton <br>48% polyester</p>
+      </div>
+      <div class="yarlik_first">
+        <img src="images/yarlik_first.svg" alt="">
+        <p class="zero_one">СПАСИБО <br>ЗА ПОКУПКИ!</p>
+        <p class="zero_two">HKGROTESK.COM</p>
+      </div>
+      <div class="yarlik_second">
+        <img src="images/yarlik_second.svg" alt="">
+        <p class="y_one">Hk Grotesk</p>
+        <p class="y_two">S</p>
+        <p class="y_three">small</p>
+        <p class="y_four">made in russia</p>
+      </div>
+    </div>
+    <!-- промежуточная -->
+    <div class="space_one">
+      <p>12 начертании 12 начертании 12 начертании 12 начер</p>
+    </div>
+    <!-- третья страница -->
+    <div class="third_block">
+      <p class="decor_three">--------------------------------------------------------------</p>
+      <p class="decor_four">--------------------------------------------------------------</p>
+      <div class="package">
+        <img src="images/package.svg" alt="">
+        <p class="one">Size: 36</p>
+        <p class="two">Size: 37</p>
+        <p class="three">Size: 38</p>
+        <p class="four">Size: 39</p>
+        <p class="five">Size: 40</p>
+        <p class="color_one">Color: brown</p>
+        <p class="color_two">Color: black</p>
+        <p class="color_three">Color: light</p>
+        <p class="color_four">Color: yellow</p>
+        <p class="color_five">Color: chocolate</p>
+      </div>
+      <div class="hat_purple">
+        <img src="images/hat_purple.svg" alt="">
+        <p>шапка <з</p>
+      </div>
+      <div class="socks_red">
+        <img src="images/socks_red.svg" alt="">
+        <p class="cold">холодно!</p>
+        <p class="size_s">36-38</p>
+      </div>
+      </div>
+    <!-- промежуточная -->
+    <div class="space_two">
+      <p>Внимание! Только сегодня! Все товары 50% off! Вниман</p>
+    </div>
+    <!-- четвертая страница -->
+    <div class="last_block">
+      <div class="star_second">
+        <img src="images/star_first.svg" alt="">
+        <p>new arrivals 50% off</p>
+      </div>
+      <div class="box">
+        <img src="images/box.svg" alt="">
+        <p class="light_one">hk grotesk</p>
+        <p class="light_two">article</p>
+        <p class="light_three">color</p>
+        <p class="light_four">color description</p>
+        <p class="light_five">eus</p>
+        <p class="light_six">us</p>
+        <p class="black_one">440523</p>
+        <p class="black_two">00101</p>
+        <p class="black_three">black</p>
+        <p class="black_four">44</p>
+        <p class="black_five">8-8.5</p>
+      </div>
+      <div class="yrliki">
+        <img src="images/yrliki.svg" alt="">
+        <p class="type">виды заказ</p>
+        <p class="eight_last">8</p>
+        <p class="k">k</p>
+        <p class="g">g</p>
+        <p class="three_last">3</p>
+        <p class="last_one">цифра восемь</p>
+        <p class="last_two">английская буква «к»</p>
+        <p class="last_three">маленькая буква G</p>
+        <p class="last_four">цифра три</p>
+      </div>
+    </div>
+    <!-- конец -->
+    <div class="ending">
+      <div class="logo"><img src="images/white.svg" width="182" alt=""></div>
+      <p class="name">Наранзаяа Оюунбаатар <br>Б22ДЗ09</p>
+    </div>
 
 
   </body>
